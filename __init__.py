@@ -1,4 +1,4 @@
-"""comfyui-Clothing Asset Library-lw: browse local clothing assets and output an IMAGE."""
+"""comfyui-Clothing-Asset-Library-lw: browse local clothing assets and output an IMAGE."""
 import hashlib
 import numpy as np
 import torch

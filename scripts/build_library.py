@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""生成 comfyui-Clothing Asset Library-lw 的数据清单与缩略图。
+"""生成 comfyui-Clothing-Asset-Library-lw 的数据清单与缩略图。
 
 默认扫描节点内已内嵌的 WebP 原图目录 library/originals（由 scripts/import_assets.py 生成），
 写入 library/data/clothing-zh.json 与 library/data/meta-zh.json，

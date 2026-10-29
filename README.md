@@ -16,7 +16,7 @@
 ## 目录结构
 
 ```
-comfyui-Clothing Asset Library-lw/
+comfyui-Clothing-Asset-Library-lw/
 ├── __init__.py               # ClothingGallery 节点 + HTTP 路由
 ├── catalog.py                # 数据层：扫描内嵌资源、防目录穿越
 ├── pyproject.toml

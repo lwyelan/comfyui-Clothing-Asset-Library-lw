@@ -2,7 +2,7 @@ import { app } from "../../scripts/app.js";
 import { api } from "../../scripts/api.js";
 
 app.registerExtension({
-  name: "comfyui-Clothing Asset Library-lw.browser",
+  name: "comfyui-Clothing-Asset-Library-lw.browser",
   async beforeRegisterNodeDef(nodeType, nodeData) {
     if (nodeData.name !== "ClothingGallery") return;
     const created = nodeType.prototype.onNodeCreated;

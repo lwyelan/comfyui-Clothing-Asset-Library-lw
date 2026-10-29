@@ -1,5 +1,5 @@
 [project]
-name = "comfyui-Clothing Asset Library-lw"
+name = "comfyui-Clothing-Asset-Library-lw"
 version = "0.1.0"
 description = "Browse a local Chinese clothing asset gallery and output reference images in ComfyUI"
 requires-python = ">=3.10"
